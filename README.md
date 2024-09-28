@@ -32,4 +32,3 @@ Include educational materials about recognizing phishing attacks.
 - **Instructions**: Provide easy-to-follow instructions for running the project.
 - **Educational Focus**: Emphasize that the project is for educational purposes to promote cybersecurity awareness.
 
-Feel free to modify any part of the README to better fit your project!
