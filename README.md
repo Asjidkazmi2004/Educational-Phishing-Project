@@ -27,7 +27,6 @@ Add more phishing scenarios.
 Include educational materials about recognizing phishing attacks.
 
 
-### Tips for Your README
 - **Be Clear**: Explain the purpose and features of your project.
 - **Instructions**: Provide easy-to-follow instructions for running the project.
 - **Educational Focus**: Emphasize that the project is for educational purposes to promote cybersecurity awareness.
