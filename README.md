@@ -1,37 +1,35 @@
+
 # Phishing Simulation Project
 
 ## Overview
-Yeh project phishing attack ka simulation hai, jo cybersecurity ke khataron ke bare mein awareness barhata hai. Ismein dikhaya gaya hai ke attackers kaise users ko sensitive maloomat dene ke liye dhoka de sakte hain.
+This project simulates a phishing attack to raise awareness about cybersecurity risks. It demonstrates how attackers might trick users into providing sensitive information.
 
 ## Features
-- **Fake Login Interface**: Yeh ek jhooti login screen hai jo email aur password maangti hai.
-- **Hacker Presence**: Yeh user ke PC par hacker ki maujoodgi ka ehsaas dilata hai.
-- **Educational Tool**: Iska maqsad users ko phishing attacks pehchanne mein madad karna hai.
+- Fake login interface requesting email and password.
+- Simulates a hacker's presence on the user's PC.
+- Educational tool to help users recognize phishing attempts.
 
 ## Usage
-1. **Clone ya Download**: Repository ko clone karein ya ZIP file download karein.
-2. **Run Script**: Python script ko chalayein.
-3. **Instructions Follow Karein**: On-screen instructions ko follow karte hue simulation ke sath interact karein.
+1. Clone the repository or download the ZIP file.
+2. Run the Python script.
+3. Follow the on-screen instructions to interact with the simulation.
 
 ## Installation
-Pehle yeh dekhein ke aapke paas Python install hai. Aapko in libraries ko install karna pad sakta hai:
+Make sure to have Python installed. You may need to install the following libraries:
 ```bash
 pip install tkinter pillow
 
-
 Disclaimer
-Yeh project sirf educational maqsad ke liye hai. Isay kisi bhi kharab kaam ke liye istemal mat karein.
+This project is for educational purposes only. Do not use it for malicious activities.
 
 Future Improvements
-Zyada Scenarios: Zyada phishing scenarios ko shamil karna.
-Educational Materials: Phishing attacks ko samajhne ke liye educational materials shamil karna.
+Add more phishing scenarios.
+Include educational materials about recognizing phishing attacks.
 
 
-### Is README ko kaise istemal karein:
-1. **GitHub Par Jayen**: Apni repository par jayein.
-2. **New File Banayen**: `README.md` naam se ek nayi file banayein.
-3. **Content Paste Karein**: Upar diya gaya content wahan paste karein.
-4. **Save Karein**: File ko save karein.
+### Tips for Your README
+- **Be Clear**: Explain the purpose and features of your project.
+- **Instructions**: Provide easy-to-follow instructions for running the project.
+- **Educational Focus**: Emphasize that the project is for educational purposes to promote cybersecurity awareness.
 
-Agar aapko kisi aur cheez ki zarurat hai ya ismein koi tabdeeli chahiye, toh zaroor batayein!
-
+Feel free to modify any part of the README to better fit your project!
